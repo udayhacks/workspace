@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "onWindowChange",
+    "editor.renderWhitespace": "all",
+    "editor.autoIndent": "advanced",
+    "python.REPL.enableREPLSmartSend": false,
+    "CodeGPT.apiKey": "CodeGPT Plus Beta"
+}

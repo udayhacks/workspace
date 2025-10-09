@@ -1,0 +1,54 @@
+
+
+
+
+
+#title{
+color: #11e867;
+padding-top: 30px;
+display: block;
+text-align: center;
+font-size: 10em;
+font-style: italic;
+}
+
+#count{
+    display: block;
+    text-align: center;
+    font-size: 20em;
+    font-family: Times New Roman;
+    border-radius: 12px;
+    
+}
+
+
+#containerId{
+    text-align: center;
+}
+
+.button{
+
+    text-align: center;
+    padding: 20px 20px;
+    color: black;
+    text-align: center;
+    font-size: 120px;
+    background-color:rgba(59, 107, 166, 0.908);
+    border-radius: 10px;
+    border-color: rgba(219, 240, 66, 0.915);
+    border-width: 20px;
+    cursor: pointer;
+    transition: background 0.25;
+
+}
+
+.button:hover{
+background-color:blue;
+
+}
+
+
+
+
+
+
